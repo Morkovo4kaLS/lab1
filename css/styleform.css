@@ -1,0 +1,47 @@
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    background: #A16E83;
+    font-family: Serif;
+    font-size: 18px;
+}
+
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.form .inpt {
+    width: 100%;
+    font-size: 18px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.form textarea {
+    max-width: 400px;
+    min-width: 400px;
+    min-height: 50px;
+    max-height: 100px;
+}
+
+.btn {
+    margin-top: 10px;
+    width: 100%;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: #0f0f0f;
+    color: #dcdcdc;
+}
+.btn:hover {
+    cursor: pointer;
+}
